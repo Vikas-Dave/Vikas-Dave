@@ -39,7 +39,7 @@ A highly skilled and results-driven Game Developer with extensive experience in 
 ---
 ### 📊 Stats
 
-![Vikas Dave's GitHub stats for 2024](https://via.placeholder.com/600x200.png?text=2024+Stats+Coming+Soon)
+![Vikas Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vikas-Dave&show_icons=true&count_private=true&theme=gruvbox)
 
 ---
  <h3>👨‍💻 Vikas Dave's Coding Journey</h3>
