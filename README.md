@@ -6,7 +6,7 @@
 #  Vikas Dave ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
-**`Game Developer / Web Developer`**
+**`Full Stack Developer`**
 
 A highly skilled and results-driven Full Stack Developer with extensive experience in designing, developing, and delivering high-quality web applications. Adept at collaborating within Agile and Scrum frameworks to achieve project milestones on time, ensuring successful completion of all phases. Proficient in both frontend and backend technologies, including HTML, CSS, JavaScript, React, Node.js, and Databases (SQL/NoSQL), with a proven track record of building robust, scalable, and user-centric applications. Committed to continuous improvement and applying cutting-edge technologies to deliver seamless and dynamic web experiences.
 
