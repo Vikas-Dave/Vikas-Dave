@@ -8,7 +8,7 @@
 
 **`Game Developer / Web Developer`**
 
-A highly skilled and results-driven Game Developer with extensive experience in designing, developing, and delivering high-quality gaming experiences. Adept at collaborating within Agile and Scrum frameworks to achieve project milestones on time, ensuring successful completion of all phases. Proficient in a variety of programming languages, including C, C++, Python, and Blueprint scripting, with a proven track record of creating engaging, innovative, and user-centric games. Committed to continuous improvement and applying cutting-edge technologies to develop immersive and dynamic gameplay.
+A highly skilled and results-driven Full Stack Developer with extensive experience in designing, developing, and delivering high-quality web applications. Adept at collaborating within Agile and Scrum frameworks to achieve project milestones on time, ensuring successful completion of all phases. Proficient in both frontend and backend technologies, including HTML, CSS, JavaScript, React, Node.js, and Databases (SQL/NoSQL), with a proven track record of building robust, scalable, and user-centric applications. Committed to continuous improvement and applying cutting-edge technologies to deliver seamless and dynamic web experiences.
 
    <p align="left">
      <a href="https://www.x.com/VikasDave0511" target="_blank" rel="noreferrer"><img
