@@ -38,10 +38,10 @@ A highly skilled and results-driven Full Stack Developer with extensive experien
 
 ---
  <h3>👨‍💻 Vikas Dave's Coding Journey</h3>
-  My journey in game development began with a strong passion for mastering programming and exploring new technologies. I completed my B.Tech in Information Technology from 2015 to 2019, which laid the foundation for my technical expertise. In 2018, I had the opportunity to intern with EON Reality in France, where I gained invaluable exposure to immersive technologies and game development.
+ My journey in Full Stack Development began with a strong passion for mastering programming and exploring new technologies. I completed my B.Tech in Information Technology from 2015 to 2019, which laid the foundation for my technical expertise. In 2018, I had the opportunity to intern with EON Reality in France, where I gained invaluable exposure to immersive technologies and software development.
 
-After graduating, I spent three years working in software engineering, refining my problem-solving and technical skills. However, my passion for game development led me to pursue a Post Graduate Diploma in Game Programming, where I specialized in creating interactive experiences. To further broaden my knowledge, I also earned a Post Graduate Diploma in Software Engineering Technician, allowing me to combine advanced game development techniques with a comprehensive understanding of software engineering.
+After graduating, I spent three years working in software engineering, refining my problem-solving and technical skills. However, my passion for development led me to pursue a Post Graduate Diploma in Software Engineering, where I specialized in creating dynamic and scalable web applications. To further broaden my knowledge, I also earned a Post Graduate Diploma in Software Engineering Technician, allowing me to combine advanced full-stack development techniques with a comprehensive understanding of software engineering.
 
-Today, I am committed to leveraging my skills and knowledge to create innovative and immersive games that push the boundaries of technology. I continue to evolve as a developer, focused on delivering impactful experiences that captivate and engage players.
+Today, I am committed to leveraging my skills and knowledge to create innovative, user-centric web applications that push the boundaries of technology. I continue to evolve as a developer, focused on delivering impactful digital experiences that engage and empower users.
 
 [youtube]: https://youtube.com/@Davesway
