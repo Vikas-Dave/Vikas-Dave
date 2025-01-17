@@ -37,11 +37,6 @@ A highly skilled and results-driven Game Developer with extensive experience in 
 </p>
 
 ---
-### 📊 Stats
-
-![Vikas Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vikas-Dave&show_icons=true&count_private=true&theme=gruvbox)
-
----
  <h3>👨‍💻 Vikas Dave's Coding Journey</h3>
   My journey in game development began with a strong passion for mastering programming and exploring new technologies. I completed my B.Tech in Information Technology from 2015 to 2019, which laid the foundation for my technical expertise. In 2018, I had the opportunity to intern with EON Reality in France, where I gained invaluable exposure to immersive technologies and game development.
 
