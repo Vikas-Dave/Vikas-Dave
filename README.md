@@ -8,7 +8,7 @@
 
 **`Full Stack Developer`**
 
-A highly skilled and results-driven Full Stack Developer with extensive experience in designing, developing, and delivering high-quality web applications. Adept at collaborating within Agile and Scrum frameworks to achieve project milestones on time, ensuring successful completion of all phases. Proficient in both frontend and backend technologies, including HTML, CSS, JavaScript, React, Node.js, and Databases (SQL/NoSQL), with a proven track record of building robust, scalable, and user-centric applications. Committed to continuous improvement and applying cutting-edge technologies to deliver seamless and dynamic web experiences.
+Highly skilled and results-driven Full Stack Developer with extensive experience in designing, developing, and delivering high-quality web applications. Adept at collaborating within Agile and Scrum frameworks to achieve project milestones on time, ensuring successful completion of all phases. Proficient in both frontend and backend technologies, including HTML, CSS, JavaScript, React, Node.js, and Databases (SQL/NoSQL), with a proven track record of building robust, scalable, and user-centric applications. Committed to continuous improvement and applying cutting-edge technologies to deliver seamless and dynamic web experiences.
 
    <p align="left">
      <a href="https://www.x.com/VikasDave0511" target="_blank" rel="noreferrer"><img
