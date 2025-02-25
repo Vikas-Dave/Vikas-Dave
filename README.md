@@ -34,8 +34,6 @@ Highly skilled and results-driven Full Stack Developer with extensive experience
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Logo"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Logo"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Logo"/>
-  <img src="https://img.shields.io/badge/Unreal%20Engine" alt="Static Badge">
-
 </p>
 
 ---
