@@ -1,4 +1,4 @@
-# 🎮 Vikas Dave's Game Development Portfolio
+# 🎮 Vikas Dave || Game Developer
 
 <p align="center">
   <img src="https://img.freepik.com/premium-photo/futuristic-cybersecurity-backgrounds-digital-protection-wallpapers-technology-security-illustratio_980716-93958.jpg" alt="Profile Banner" />
