@@ -1,4 +1,4 @@
-# 🎮 Vikas Dave || sOFTWARE DEVELOPER
+# 🎮 Vikas Dave || SOFTWARE DEVELOPER
 
 <p align="center">
   <img src="https://img.freepik.com/premium-photo/futuristic-cybersecurity-backgrounds-digital-protection-wallpapers-technology-security-illustratio_980716-93958.jpg" alt="Profile Banner" />
